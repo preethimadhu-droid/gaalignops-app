@@ -1,0 +1,2 @@
+id,plan_name,client_id,pipeline_id,target_hires,planned_positions,staffed_positions,target_start_date,target_end_date,safety_buffer_pct,status,created_date,created_by,candidates_onboarded,candidates_rejected,candidates_dropped,candidates_onhold,candidates_inprogress,total_candidates
+53,Aug to Sept Plan,125,188,10,12,7,2025-08-16,2025-09-30,20.0,Planning,2025-08-16 07:17:48.521008,,7,1,0,0,4,12

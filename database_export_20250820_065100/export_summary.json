@@ -1,0 +1,1358 @@
+{
+  "export_timestamp": "2025-08-20T06:51:11.338098",
+  "export_type": "data",
+  "tables": {
+    "annual_targets": {
+      "file": "database_export_20250820_065100/annual_targets.csv",
+      "rows": 1,
+      "columns": [
+        "id",
+        "year",
+        "annual_target",
+        "q1_target",
+        "q2_target",
+        "q3_target",
+        "q4_target",
+        "created_at",
+        "updated_at"
+      ]
+    },
+    "assignment_change_log": {
+      "file": "database_export_20250820_065100/assignment_change_log.csv",
+      "rows": 335,
+      "columns": [
+        "id",
+        "talent_name",
+        "client_name",
+        "action_type",
+        "assigned_percentage",
+        "duration_months",
+        "start_date",
+        "end_date",
+        "changed_at",
+        "changed_by",
+        "previous_availability",
+        "new_availability",
+        "previous_assigned",
+        "new_assigned"
+      ]
+    },
+    "assignment_details": {
+      "file": "database_export_20250820_065100/assignment_details.csv",
+      "rows": 17,
+      "columns": [
+        "assignment_id",
+        "client_name",
+        "account_track",
+        "client_region",
+        "lob",
+        "offering",
+        "talent_name",
+        "role",
+        "skills",
+        "talent_region",
+        "assignment_percentage",
+        "duration_months",
+        "start_date",
+        "end_date",
+        "status",
+        "notes",
+        "availability_percentage",
+        "total_assignment_percentage"
+      ]
+    },
+    "assignment_history": {
+      "file": "database_export_20250820_065100/assignment_history.csv",
+      "rows": 167,
+      "columns": [
+        "id",
+        "assignment_id",
+        "client_name",
+        "talent_name",
+        "role",
+        "assigned_percentage",
+        "duration_months",
+        "start_date",
+        "end_date",
+        "skills",
+        "status",
+        "action_type",
+        "changed_at",
+        "changed_by",
+        "previous_values",
+        "new_values"
+      ]
+    },
+    "availability_history": {
+      "file": "database_export_20250820_065100/availability_history.csv",
+      "rows": 437,
+      "columns": [
+        "id",
+        "talent_name",
+        "previous_availability",
+        "new_availability",
+        "previous_assigned",
+        "new_assigned",
+        "change_reason",
+        "changed_at",
+        "changed_by",
+        "related_assignment_id",
+        "related_client"
+      ]
+    },
+    "candidate_data": {
+      "file": "database_export_20250820_065100/candidate_data.csv",
+      "rows": 311,
+      "columns": [
+        "id",
+        "candidate_name",
+        "role",
+        "experience_level",
+        "skills",
+        "hire_for_client_id",
+        "status",
+        "status_flag",
+        "linked_pipeline_id",
+        "source",
+        "vendor_partner",
+        "location",
+        "notice_period",
+        "resume_file_path",
+        "notes",
+        "created_date",
+        "created_by",
+        "updated_date",
+        "email_id",
+        "contact_number",
+        "expected_ctc",
+        "position_start_date",
+        "notice_period_details",
+        "next_steps",
+        "interview_feedback",
+        "data_source",
+        "last_import_sync",
+        "last_manual_edit",
+        "import_conflicts",
+        "profile_received_date",
+        "created_flag",
+        "status_last_changed",
+        "current_stage_days",
+        "staffing_plan_id",
+        "staffing_owner",
+        "staffing_role",
+        "drop_reason",
+        "linked_talent_id"
+      ]
+    },
+    "candidate_roles": {
+      "file": "database_export_20250820_065100/candidate_roles.csv",
+      "rows": 32,
+      "columns": [
+        "id",
+        "role_name",
+        "created_date"
+      ]
+    },
+    "candidate_status_backup_20250802_091612": {
+      "file": "database_export_20250820_065100/candidate_status_backup_20250802_091612.csv",
+      "rows": 295,
+      "columns": [
+        "id",
+        "candidate_name",
+        "original_status",
+        "backup_date"
+      ]
+    },
+    "candidate_status_history": {
+      "file": "database_export_20250820_065100/candidate_status_history.csv",
+      "rows": 248,
+      "columns": [
+        "id",
+        "candidate_id",
+        "previous_status",
+        "new_status",
+        "status_change_date",
+        "changed_by",
+        "change_source",
+        "notes",
+        "cycle_time_days",
+        "created_at"
+      ]
+    },
+    "candidate_workflow_history": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "code_pairing_backup_20250802": {
+      "file": "database_export_20250820_065100/code_pairing_backup_20250802.csv",
+      "rows": 6,
+      "columns": [
+        "id",
+        "candidate_name",
+        "status",
+        "status_flag",
+        "backup_date"
+      ]
+    },
+    "data_integrity_log": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "data_points": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dataaggregator": {
+      "file": "database_export_20250820_065100/dataaggregator.csv",
+      "rows": 329,
+      "columns": [
+        "id",
+        "data",
+        "synced_at",
+        "created_at",
+        "row_hash",
+        "updated_at"
+      ]
+    },
+    "dataaggregator_backup_20250802": {
+      "file": "database_export_20250820_065100/dataaggregator_backup_20250802.csv",
+      "rows": 295,
+      "columns": [
+        "id",
+        "data",
+        "synced_at",
+        "created_at"
+      ]
+    },
+    "demand_metadata": {
+      "file": "database_export_20250820_065100/demand_metadata.csv",
+      "rows": 11,
+      "columns": [
+        "id",
+        "client_name",
+        "duration_months",
+        "start_date",
+        "end_date",
+        "people_expected",
+        "confidence_pct",
+        "region",
+        "track",
+        "created_at",
+        "updated_at",
+        "status",
+        "is_user_edited_date",
+        "is_auto_created",
+        "leads",
+        "pending"
+      ]
+    },
+    "demand_pipeline_stages": {
+      "file": "database_export_20250820_065100/demand_pipeline_stages.csv",
+      "rows": 11,
+      "columns": [
+        "id",
+        "demand_pipeline_id",
+        "stage_name",
+        "conversion_rate",
+        "tat_value",
+        "tat_unit",
+        "stage_order",
+        "stage_color",
+        "created_date",
+        "stage_description"
+      ]
+    },
+    "demand_pipelines": {
+      "file": "database_export_20250820_065100/demand_pipelines.csv",
+      "rows": 2,
+      "columns": [
+        "id",
+        "name",
+        "region",
+        "created_date",
+        "updated_date",
+        "prospect_type",
+        "description",
+        "status"
+      ]
+    },
+    "demand_planning": {
+      "file": "database_export_20250820_065100/demand_planning.csv",
+      "rows": 2064,
+      "columns": [
+        "client_id",
+        "client_name",
+        "account_track",
+        "region",
+        "lob",
+        "offering",
+        "source",
+        "industry",
+        "master_client_id"
+      ]
+    },
+    "demand_staffing": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "demand_supply_assignments": {
+      "file": "database_export_20250820_065100/demand_supply_assignments.csv",
+      "rows": 33,
+      "columns": [
+        "id",
+        "client_id",
+        "talent_id",
+        "assignment_percentage",
+        "duration_months",
+        "start_date",
+        "end_date",
+        "status",
+        "notes",
+        "created_at",
+        "updated_at",
+        "master_client_id",
+        "start_month",
+        "end_month"
+      ]
+    },
+    "demand_supply_mapping_backup": {
+      "file": "database_export_20250820_065100/demand_supply_mapping_backup.csv",
+      "rows": 24,
+      "columns": [
+        "id",
+        "client_id",
+        "talent_id",
+        "assignment_percentage",
+        "duration_months",
+        "start_date",
+        "end_date",
+        "status",
+        "notes",
+        "created_at",
+        "updated_at",
+        "master_client_id",
+        "start_month",
+        "end_month",
+        "client_name",
+        "individual_name",
+        "role",
+        "duration_engagement",
+        "assignment_start_date",
+        "assignment_end_date",
+        "skills_needed",
+        "type",
+        "region",
+        "planned_start_date",
+        "positions_total",
+        "client_region",
+        "confidence"
+      ]
+    },
+    "dev_annual_targets": {
+      "file": "database_export_20250820_065100/dev_annual_targets.csv",
+      "rows": 1,
+      "columns": [
+        "id",
+        "year",
+        "annual_target",
+        "q1_target",
+        "q2_target",
+        "q3_target",
+        "q4_target",
+        "created_at",
+        "updated_at"
+      ]
+    },
+    "dev_assignment_change_log": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_assignment_details": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_assignment_history": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_availability_history": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_candidate_data": {
+      "file": "database_export_20250820_065100/dev_candidate_data.csv",
+      "rows": 305,
+      "columns": [
+        "id",
+        "candidate_name",
+        "role",
+        "experience_level",
+        "skills",
+        "hire_for_client_id",
+        "status",
+        "status_flag",
+        "linked_pipeline_id",
+        "source",
+        "vendor_partner",
+        "location",
+        "notice_period",
+        "resume_file_path",
+        "notes",
+        "created_date",
+        "created_by",
+        "updated_date",
+        "email_id",
+        "contact_number",
+        "expected_ctc",
+        "position_start_date",
+        "notice_period_details",
+        "next_steps",
+        "interview_feedback",
+        "data_source",
+        "last_import_sync",
+        "last_manual_edit",
+        "import_conflicts",
+        "profile_received_date",
+        "created_flag",
+        "status_last_changed",
+        "current_stage_days",
+        "staffing_plan_id",
+        "staffing_owner",
+        "staffing_role",
+        "drop_reason"
+      ]
+    },
+    "dev_candidate_workflow_history": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_data_integrity_log": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_data_points": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_dataaggregator": {
+      "file": "database_export_20250820_065100/dev_dataaggregator.csv",
+      "rows": 323,
+      "columns": [
+        "id",
+        "data",
+        "synced_at",
+        "created_at"
+      ]
+    },
+    "dev_demand_metadata": {
+      "file": "database_export_20250820_065100/dev_demand_metadata.csv",
+      "rows": 10,
+      "columns": [
+        "id",
+        "client_name",
+        "duration_months",
+        "start_date",
+        "end_date",
+        "people_expected",
+        "confidence_pct",
+        "region",
+        "track",
+        "created_at",
+        "updated_at",
+        "status",
+        "is_user_edited_date",
+        "is_auto_created",
+        "leads",
+        "actual_start_date",
+        "actual_end_date",
+        "pending"
+      ]
+    },
+    "dev_demand_pipeline_stages": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_demand_pipelines": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_demand_planning": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_demand_staffing": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_demand_supply_assignments": {
+      "file": "database_export_20250820_065100/dev_demand_supply_assignments.csv",
+      "rows": 41,
+      "columns": [
+        "id",
+        "client_id",
+        "talent_id",
+        "assignment_percentage",
+        "duration_months",
+        "start_date",
+        "end_date",
+        "status",
+        "notes",
+        "created_at",
+        "updated_at",
+        "master_client_id",
+        "start_month",
+        "end_month",
+        "plan_id"
+      ]
+    },
+    "dev_demand_supply_mapping_backup": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_forecast_plans": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_forecast_points": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_forecast_requirements": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_forecasts": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_historical_data": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_master_clients": {
+      "file": "database_export_20250820_065100/dev_master_clients.csv",
+      "rows": 37,
+      "columns": [
+        "master_client_id",
+        "client_name",
+        "created_at",
+        "confidence_level",
+        "status",
+        "updated_at"
+      ]
+    },
+    "dev_owner_target_splits": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_owner_targets": {
+      "file": "database_export_20250820_065100/dev_owner_targets.csv",
+      "rows": 7,
+      "columns": [
+        "id",
+        "year",
+        "owner_name",
+        "quarter",
+        "target_amount",
+        "created_at",
+        "updated_at"
+      ]
+    },
+    "dev_pipeline_forecasts": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_pipeline_plan_actuals": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_pipeline_planning_details": {
+      "file": "database_export_20250820_065100/dev_pipeline_planning_details.csv",
+      "rows": 6,
+      "columns": [
+        "id",
+        "plan_id",
+        "role",
+        "skills",
+        "positions",
+        "onboard_by",
+        "pipeline_id",
+        "created_date",
+        "pipeline_owner"
+      ]
+    },
+    "dev_pipeline_requirements_actual": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_pipeline_stages": {
+      "file": "database_export_20250820_065100/dev_pipeline_stages.csv",
+      "rows": 28,
+      "columns": [
+        "id",
+        "pipeline_id",
+        "stage_name",
+        "stage_order",
+        "conversion_rate",
+        "tat_days",
+        "stage_description",
+        "is_active",
+        "created_date",
+        "stage_type",
+        "maps_to_status",
+        "status_flag",
+        "is_special",
+        "name",
+        "is_special_stage",
+        "is_terminal_stage",
+        "is_success_stage"
+      ]
+    },
+    "dev_pipeline_stages_forecast": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_pipeline_templates": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_pipeline_workflow_states": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_role_group_mappings": {
+      "file": "database_export_20250820_065100/dev_role_group_mappings.csv",
+      "rows": 2,
+      "columns": [
+        "id",
+        "role_id",
+        "group_id",
+        "created_date"
+      ]
+    },
+    "dev_role_groups": {
+      "file": "database_export_20250820_065100/dev_role_groups.csv",
+      "rows": 2,
+      "columns": [
+        "id",
+        "group_name",
+        "description",
+        "status",
+        "created_date",
+        "updated_date",
+        "created_by"
+      ]
+    },
+    "dev_roles": {
+      "file": "database_export_20250820_065100/dev_roles.csv",
+      "rows": 8,
+      "columns": [
+        "id",
+        "role_name",
+        "description",
+        "status",
+        "created_date",
+        "updated_date",
+        "created_by"
+      ]
+    },
+    "dev_scenario_points": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_scenarios": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_staffing_plan_generated_pipelines": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_staffing_plan_generated_plans": {
+      "file": "database_export_20250820_065100/dev_staffing_plan_generated_plans.csv",
+      "rows": 2,
+      "columns": [
+        "id",
+        "plan_id",
+        "role",
+        "pipeline_id",
+        "pipeline_name",
+        "generated_data",
+        "created_by",
+        "created_date",
+        "pipeline_owner"
+      ]
+    },
+    "dev_staffing_plans": {
+      "file": "database_export_20250820_065100/dev_staffing_plans.csv",
+      "rows": 1,
+      "columns": [
+        "id",
+        "plan_name",
+        "client_id",
+        "pipeline_id",
+        "target_hires",
+        "planned_positions",
+        "staffed_positions",
+        "target_start_date",
+        "target_end_date",
+        "safety_buffer_pct",
+        "status",
+        "created_date",
+        "created_by",
+        "candidates_onboarded",
+        "candidates_rejected",
+        "candidates_dropped",
+        "candidates_onhold",
+        "candidates_inprogress",
+        "total_candidates"
+      ]
+    },
+    "dev_staffing_requirements": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_talent_pipelines": {
+      "file": "database_export_20250820_065100/dev_talent_pipelines.csv",
+      "rows": 3,
+      "columns": [
+        "id",
+        "name",
+        "client_id",
+        "description",
+        "is_active",
+        "created_date",
+        "updated_date",
+        "created_by",
+        "is_internal"
+      ]
+    },
+    "dev_talent_supply": {
+      "file": "database_export_20250820_065100/dev_talent_supply.csv",
+      "rows": 50,
+      "columns": [
+        "id",
+        "talent_id",
+        "name",
+        "role",
+        "grade",
+        "doj",
+        "assignment_status",
+        "type",
+        "assigned_to",
+        "assignment_percentage",
+        "availability_percentage",
+        "employment_status",
+        "email_id",
+        "years_of_exp",
+        "skills",
+        "region",
+        "partner",
+        "billable",
+        "client",
+        "track",
+        "created_at",
+        "updated_at",
+        "sub_status",
+        "total_assignment_percentage",
+        "new_column_example"
+      ]
+    },
+    "dev_template_stages": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_unified_sales_data": {
+      "file": "database_export_20250820_065100/dev_unified_sales_data.csv",
+      "rows": 1324,
+      "columns": [
+        "id",
+        "account_name",
+        "account_track",
+        "connect_name",
+        "partner_connect",
+        "owner",
+        "source",
+        "industry",
+        "region",
+        "lob",
+        "offering",
+        "financial_year",
+        "year",
+        "month",
+        "month_number",
+        "metric_type",
+        "value",
+        "created_at",
+        "updated_at",
+        "partner_org",
+        "status",
+        "duration",
+        "client_id"
+      ]
+    },
+    "dev_user_role_mappings": {
+      "file": "database_export_20250820_065100/dev_user_role_mappings.csv",
+      "rows": 1,
+      "columns": [
+        "id",
+        "user_name",
+        "role_group_id",
+        "team",
+        "status",
+        "created_date",
+        "updated_date"
+      ]
+    },
+    "dev_user_roles": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_users": {
+      "file": "database_export_20250820_065100/dev_users.csv",
+      "rows": 4,
+      "columns": [
+        "id",
+        "username",
+        "email",
+        "password_hash",
+        "profile",
+        "created_date",
+        "last_login",
+        "is_active",
+        "created_by",
+        "updated_date",
+        "status"
+      ]
+    },
+    "dev_workflow_actions": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_workflow_states": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "dev_workflow_transitions": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "duplicate_profile_backup_20250802": {
+      "file": "database_export_20250820_065100/duplicate_profile_backup_20250802.csv",
+      "rows": 6,
+      "columns": [
+        "id",
+        "candidate_name",
+        "status",
+        "status_flag",
+        "backup_date"
+      ]
+    },
+    "forecast_plans": {
+      "file": "database_export_20250820_065100/forecast_plans.csv",
+      "rows": 11,
+      "columns": [
+        "id",
+        "owner",
+        "year",
+        "quarter",
+        "contracts_targeted",
+        "avg_conversion_rate",
+        "created_date",
+        "updated_date",
+        "owner_id",
+        "pipeline_id",
+        "planned_signed_date"
+      ]
+    },
+    "forecast_points": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "forecast_requirements": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "forecasts": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "historical_data": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "master_clients": {
+      "file": "database_export_20250820_065100/master_clients.csv",
+      "rows": 36,
+      "columns": [
+        "master_client_id",
+        "client_name",
+        "created_at",
+        "confidence_level",
+        "status",
+        "updated_at"
+      ]
+    },
+    "on_hold_backup_20250802": {
+      "file": "database_export_20250820_065100/on_hold_backup_20250802.csv",
+      "rows": 11,
+      "columns": [
+        "id",
+        "candidate_name",
+        "status",
+        "status_flag",
+        "backup_date"
+      ]
+    },
+    "owner_target_splits": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "owner_targets": {
+      "file": "database_export_20250820_065100/owner_targets.csv",
+      "rows": 7,
+      "columns": [
+        "id",
+        "year",
+        "owner_name",
+        "quarter",
+        "target_amount",
+        "created_at",
+        "updated_at"
+      ]
+    },
+    "pipeline_forecasts": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "pipeline_plan_actuals": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "pipeline_planning_details": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "pipeline_requirements_actual": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "pipeline_stages": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "pipeline_stages_forecast": {
+      "file": "database_export_20250820_065100/pipeline_stages_forecast.csv",
+      "rows": 5,
+      "columns": [
+        "id",
+        "forecast_plan_id",
+        "stage_name",
+        "conversion_rate",
+        "tat_days",
+        "planned_number",
+        "created_date",
+        "planned_date"
+      ]
+    },
+    "pipeline_templates": {
+      "file": "database_export_20250820_065100/pipeline_templates.csv",
+      "rows": 2,
+      "columns": [
+        "id",
+        "template_name",
+        "description",
+        "industry",
+        "role_category",
+        "is_default",
+        "created_date"
+      ]
+    },
+    "pipeline_workflow_states": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "rejected_status_backup_20250802": {
+      "file": "database_export_20250820_065100/rejected_status_backup_20250802.csv",
+      "rows": 55,
+      "columns": [
+        "id",
+        "candidate_name",
+        "status",
+        "status_flag",
+        "backup_date"
+      ]
+    },
+    "role_group_mappings": {
+      "file": "database_export_20250820_065100/role_group_mappings.csv",
+      "rows": 23,
+      "columns": [
+        "id",
+        "role_id",
+        "group_id",
+        "created_date"
+      ]
+    },
+    "role_group_permissions": {
+      "file": "database_export_20250820_065100/role_group_permissions.csv",
+      "rows": 104,
+      "columns": [
+        "id",
+        "group_id",
+        "module_name",
+        "sub_page",
+        "can_add",
+        "can_edit",
+        "can_delete",
+        "can_view",
+        "created_date",
+        "updated_date"
+      ]
+    },
+    "role_groups": {
+      "file": "database_export_20250820_065100/role_groups.csv",
+      "rows": 10,
+      "columns": [
+        "id",
+        "group_name",
+        "description",
+        "status",
+        "created_date",
+        "updated_date",
+        "created_by"
+      ]
+    },
+    "roles": {
+      "file": "database_export_20250820_065100/roles.csv",
+      "rows": 4,
+      "columns": [
+        "id",
+        "role_name",
+        "description",
+        "status",
+        "created_date",
+        "updated_date",
+        "created_by"
+      ]
+    },
+    "scenario_points": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "scenarios": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "screen_rejected_backup_20250802": {
+      "file": "database_export_20250820_065100/screen_rejected_backup_20250802.csv",
+      "rows": 86,
+      "columns": [
+        "id",
+        "candidate_name",
+        "status",
+        "status_flag",
+        "backup_date"
+      ]
+    },
+    "staffing_plan_generated_pipelines": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "staffing_plan_generated_plans": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "staffing_plans": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "staffing_requirements": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "talent_pipelines": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    },
+    "talent_supply": {
+      "file": "database_export_20250820_065100/talent_supply.csv",
+      "rows": 56,
+      "columns": [
+        "id",
+        "talent_id",
+        "name",
+        "role",
+        "grade",
+        "doj",
+        "assignment_status",
+        "type",
+        "assigned_to",
+        "assignment_percentage",
+        "availability_percentage",
+        "employment_status",
+        "email_id",
+        "years_of_exp",
+        "skills",
+        "region",
+        "partner",
+        "billable",
+        "client",
+        "track",
+        "created_at",
+        "updated_at",
+        "sub_status",
+        "total_assignment_percentage",
+        "new_column_example",
+        "source_candidate_id"
+      ]
+    },
+    "tech_round_backup_20250802": {
+      "file": "database_export_20250820_065100/tech_round_backup_20250802.csv",
+      "rows": 2,
+      "columns": [
+        "id",
+        "candidate_name",
+        "status",
+        "status_flag",
+        "backup_date"
+      ]
+    },
+    "template_stages": {
+      "file": "database_export_20250820_065100/template_stages.csv",
+      "rows": 14,
+      "columns": [
+        "id",
+        "template_id",
+        "stage_name",
+        "stage_order",
+        "default_conversion_rate",
+        "default_tat_days",
+        "stage_description"
+      ]
+    },
+    "unified_sales_data": {
+      "file": "database_export_20250820_065100/unified_sales_data.csv",
+      "rows": 1728,
+      "columns": [
+        "id",
+        "account_name",
+        "account_track",
+        "connect_name",
+        "partner_connect",
+        "owner",
+        "source",
+        "industry",
+        "region",
+        "lob",
+        "offering",
+        "financial_year",
+        "year",
+        "month",
+        "month_number",
+        "metric_type",
+        "value",
+        "created_at",
+        "updated_at",
+        "partner_org",
+        "status",
+        "duration",
+        "client_id",
+        "owner_id",
+        "forecast_plan_id"
+      ]
+    },
+    "user_role_mappings": {
+      "file": "database_export_20250820_065100/user_role_mappings.csv",
+      "rows": 7,
+      "columns": [
+        "id",
+        "user_name",
+        "role_group_id",
+        "team",
+        "notes",
+        "created_date",
+        "status"
+      ]
+    },
+    "user_roles": {
+      "file": "database_export_20250820_065100/user_roles.csv",
+      "rows": 2,
+      "columns": [
+        "id",
+        "user_id",
+        "role_id",
+        "assigned_date",
+        "assigned_by",
+        "status"
+      ]
+    },
+    "users": {
+      "file": "database_export_20250820_065100/users.csv",
+      "rows": 7,
+      "columns": [
+        "id",
+        "username",
+        "email",
+        "password_hash",
+        "profile",
+        "created_date",
+        "last_login",
+        "is_active",
+        "created_by",
+        "updated_date",
+        "status",
+        "team"
+      ]
+    },
+    "vendor_partners": {
+      "file": "database_export_20250820_065100/vendor_partners.csv",
+      "rows": 10,
+      "columns": [
+        "id",
+        "partner_name",
+        "created_date"
+      ]
+    },
+    "workflow_actions": {
+      "file": "database_export_20250820_065100/workflow_actions.csv",
+      "rows": 5,
+      "columns": [
+        "id",
+        "action_name",
+        "action_description",
+        "requires_comment",
+        "created_date"
+      ]
+    },
+    "workflow_states": {
+      "file": "database_export_20250820_065100/workflow_states.csv",
+      "rows": 13,
+      "columns": [
+        "id",
+        "state_name",
+        "state_color",
+        "state_order",
+        "is_initial_state",
+        "is_final_state",
+        "created_date",
+        "is_special"
+      ]
+    },
+    "workflow_transitions": {
+      "file": null,
+      "rows": 0,
+      "columns": [],
+      "note": "Table empty or export failed"
+    }
+  }
+}

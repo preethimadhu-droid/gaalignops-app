@@ -1,0 +1,15 @@
+id,template_id,stage_name,stage_order,default_conversion_rate,default_tat_days,stage_description
+1,1,Initial Screening,1,80.0,2,Resume review and initial phone screening
+2,1,Technical Assessment,2,70.0,3,Coding test or technical assignment
+3,1,Technical Interview,3,60.0,2,Live coding and technical discussion
+4,1,Cultural Fit Interview,4,80.0,2,Team fit and culture assessment
+5,1,Final Interview,5,85.0,3,Final round with senior leadership
+6,1,Offer & Negotiation,6,90.0,5,Offer discussion and negotiation
+7,1,Selected,7,95.0,7,Offer accepted and onboarding
+8,2,Application Review,1,75.0,1,Resume and application screening
+9,2,Case Study Prep,2,85.0,7,Take-home case study assignment
+10,2,Case Interview,3,50.0,2,Live case study presentation
+11,2,Behavioral Interview,4,70.0,2,Leadership and fit assessment
+12,2,Partner Interview,5,80.0,3,Final interview with partner
+13,2,Reference Check,6,95.0,3,Professional reference verification
+14,2,Selected,7,98.0,5,Offer extended and accepted

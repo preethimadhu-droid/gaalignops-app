@@ -1,0 +1,9 @@
+id,role_name,description,status,created_date,updated_date,created_by
+1,admin,Administrator - Full system access,Active,2025-07-10 04:52:39.371337,2025-07-10 05:06:27.010514,system
+2,team_member,Team Member - Standard user access,Active,2025-07-10 04:52:39.371337,2025-07-10 05:06:27.241741,system
+3,Team_Lead,Team Leads for People & Demand,Active,2025-07-10 04:55:39.414086,2025-07-10 05:06:27.466174,admin
+4,SuperAdmin,Across the application ,Active,2025-07-10 05:06:27.644871,2025-07-10 05:06:27.644871,admin
+5,Super Admin,Full system access including all modules,Active,2025-08-17 06:06:03.604551,2025-08-17 06:06:03.604551,system
+6,Supply Planning Manager,Access to Supply Planning and Talent Management,Active,2025-08-17 06:06:03.604551,2025-08-17 06:06:03.604551,system
+7,Demand Planning Manager,Access to Demand Planning modules,Active,2025-08-17 06:06:03.604551,2025-08-17 06:06:03.604551,system
+8,Analytics Manager,Access to Insights & Reporting,Active,2025-08-17 06:06:03.604551,2025-08-17 06:06:03.604551,system

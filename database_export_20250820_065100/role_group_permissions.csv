@@ -1,0 +1,105 @@
+id,group_id,module_name,sub_page,can_add,can_edit,can_delete,can_view,created_date,updated_date
+36,8,Demand Planning,Target Setting,True,True,False,True,2025-07-10 11:55:59.801561,2025-07-10 11:55:59.801561
+37,8,Demand Planning,Demand Tweaking,True,True,True,True,2025-07-10 11:55:59.801561,2025-07-10 11:55:59.801561
+38,8,Demand Planning,Editable Plan View,True,True,True,True,2025-07-10 11:55:59.801561,2025-07-10 11:55:59.801561
+39,8,Supply Planning,Supply Planning,True,True,True,True,2025-07-10 11:55:59.801561,2025-07-10 11:55:59.801561
+40,8,Demand - Supply Mapping,Demand - Supply Mapping,True,True,True,True,2025-07-10 11:55:59.801561,2025-07-10 11:55:59.801561
+41,8,Insights & Reporting,Insights & Reporting,False,False,False,True,2025-07-10 11:55:59.801561,2025-07-10 11:55:59.801561
+42,8,Settings,Settings,False,True,False,True,2025-07-10 11:55:59.801561,2025-07-10 11:55:59.801561
+43,9,Demand Planning,Target Setting,False,False,False,True,2025-07-10 11:56:00.265915,2025-07-10 11:56:00.265915
+44,9,Demand Planning,Demand Tweaking,False,True,False,True,2025-07-10 11:56:00.265915,2025-07-10 11:56:00.265915
+45,9,Demand Planning,Editable Plan View,False,True,False,True,2025-07-10 11:56:00.265915,2025-07-10 11:56:00.265915
+46,9,Supply Planning,Supply Planning,False,True,False,True,2025-07-10 11:56:00.265915,2025-07-10 11:56:00.265915
+47,9,Demand - Supply Mapping,Demand - Supply Mapping,True,True,False,True,2025-07-10 11:56:00.265915,2025-07-10 11:56:00.265915
+48,9,Insights & Reporting,Insights & Reporting,False,False,False,True,2025-07-10 11:56:00.265915,2025-07-10 11:56:00.265915
+49,9,Settings,Settings,False,False,False,False,2025-07-10 11:56:00.265915,2025-07-10 11:56:00.265915
+50,10,Demand Planning,Target Setting,False,False,False,True,2025-07-10 11:56:00.705400,2025-07-10 11:56:00.705400
+51,10,Demand Planning,Demand Tweaking,False,False,False,True,2025-07-10 11:56:00.705400,2025-07-10 11:56:00.705400
+52,10,Demand Planning,Editable Plan View,False,False,False,True,2025-07-10 11:56:00.705400,2025-07-10 11:56:00.705400
+53,10,Supply Planning,Supply Planning,False,False,False,True,2025-07-10 11:56:00.705400,2025-07-10 11:56:00.705400
+54,10,Demand - Supply Mapping,Demand - Supply Mapping,False,False,False,True,2025-07-10 11:56:00.705400,2025-07-10 11:56:00.705400
+55,10,Insights & Reporting,Insights & Reporting,False,False,False,True,2025-07-10 11:56:00.705400,2025-07-10 11:56:00.705400
+56,10,Settings,Settings,False,False,False,False,2025-07-10 11:56:00.705400,2025-07-10 11:56:00.705400
+188,5,Demand Planning,Target Setting,False,False,False,True,2025-07-23 07:06:01.500935,2025-07-23 07:06:01.454714
+189,5,Demand Planning,Demand Tweaking,True,True,False,True,2025-07-23 07:06:01.537669,2025-07-23 07:06:01.454714
+190,5,Demand Planning,Editable Plan View,False,False,False,False,2025-07-23 07:06:01.566385,2025-07-23 07:06:01.454714
+191,5,Supply Planning,Talent Management,False,False,False,False,2025-07-23 07:06:01.594605,2025-07-23 07:06:01.454714
+192,5,Supply Planning,Pipeline Configuration,False,False,False,False,2025-07-23 07:06:01.622886,2025-07-23 07:06:01.454714
+193,5,Supply Planning,Staffing Plans,False,False,False,False,2025-07-23 07:06:01.651115,2025-07-23 07:06:01.454714
+194,5,Demand - Supply Mapping,Add New Mapping,False,False,False,False,2025-07-23 07:06:01.679619,2025-07-23 07:06:01.454714
+195,5,Demand - Supply Mapping,View Mappings,False,False,False,False,2025-07-23 07:06:01.707623,2025-07-23 07:06:01.454714
+196,5,Insights & Reporting,Analytics Dashboard,False,False,False,False,2025-07-23 07:06:01.735798,2025-07-23 07:06:01.454714
+197,5,Insights & Reporting,Export Functions,False,False,False,False,2025-07-23 07:06:01.763982,2025-07-23 07:06:01.454714
+198,5,Settings,User Management,False,False,False,False,2025-07-23 07:06:01.791976,2025-07-23 07:06:01.454714
+199,5,Settings,Roles & Role Groups,False,False,False,False,2025-07-23 07:06:01.821065,2025-07-23 07:06:01.454714
+200,5,Settings,Database Status,False,False,False,False,2025-07-23 07:06:01.849790,2025-07-23 07:06:01.454714
+220,6,Demand Planning,Target Setting,True,True,True,True,2025-07-28 02:55:58.828685,2025-07-28 02:55:58.828685
+221,6,Demand Planning,Demand Tweaking,True,True,True,True,2025-07-28 02:55:58.828685,2025-07-28 02:55:58.828685
+222,6,Demand Planning,Editable Plan View,True,True,True,True,2025-07-28 02:55:58.828685,2025-07-28 02:55:58.828685
+223,6,Supply Planning,Talent Management,True,True,True,True,2025-07-28 02:55:58.828685,2025-07-28 02:55:58.828685
+224,6,Supply Planning,Pipeline Configuration,True,True,True,True,2025-07-28 02:55:58.828685,2025-07-28 02:55:58.828685
+225,6,Supply Planning,Supply Management,True,True,True,True,2025-07-28 02:55:58.828685,2025-07-28 02:55:58.828685
+226,6,Supply Planning,Supply pipeline management,True,True,True,True,2025-07-28 02:55:58.828685,2025-07-28 02:55:58.828685
+227,6,Demand - Supply Mapping,Add New Mapping,True,True,True,True,2025-07-28 02:55:58.828685,2025-07-28 02:55:58.828685
+228,6,Demand - Supply Mapping,View Mappings,True,True,True,True,2025-07-28 02:55:58.828685,2025-07-28 02:55:58.828685
+229,6,Insights & Reporting,Analytics Dashboard,True,True,True,True,2025-07-28 02:55:58.828685,2025-07-28 02:55:58.828685
+230,6,Insights & Reporting,Export Functions,True,True,True,True,2025-07-28 02:55:58.828685,2025-07-28 02:55:58.828685
+231,6,Settings,User Management,True,True,True,True,2025-07-28 02:55:58.828685,2025-07-28 02:55:58.828685
+232,6,Settings,Roles & Role Groups,True,True,True,True,2025-07-28 02:55:58.828685,2025-07-28 02:55:58.828685
+233,6,Settings,Database Status,True,True,True,True,2025-07-28 02:55:58.828685,2025-07-28 02:55:58.828685
+234,6,Settings,Application Settings,True,True,True,True,2025-07-28 02:55:58.828685,2025-07-28 02:55:58.828685
+235,6,Settings,Export Settings,True,True,True,True,2025-07-28 02:55:58.828685,2025-07-28 02:55:58.828685
+236,6,Settings,Environment,True,True,True,True,2025-07-28 02:55:58.828685,2025-07-28 02:55:58.828685
+201,5,Settings,Application Settings,False,False,False,False,2025-07-23 07:06:01.878262,2025-07-23 07:06:01.454714
+202,5,Settings,Export Settings,False,False,False,False,2025-07-23 07:06:01.907625,2025-07-23 07:06:01.454714
+203,5,Settings,Environment,False,False,False,False,2025-07-23 07:06:01.936010,2025-07-23 07:06:01.454714
+254,7,Demand Planning,Target Setting,False,False,False,True,2025-07-28 07:41:20.723738,2025-07-28 07:41:20.669814
+255,7,Demand Planning,Demand Tweaking,False,False,False,True,2025-07-28 07:41:20.764095,2025-07-28 07:41:20.669814
+256,7,Demand Planning,Editable Plan View,False,False,False,True,2025-07-28 07:41:20.797790,2025-07-28 07:41:20.669814
+257,7,Supply Planning,Talent Management,False,False,False,True,2025-07-28 07:41:20.828780,2025-07-28 07:41:20.669814
+258,7,Supply Planning,Pipeline Configuration,False,False,False,True,2025-07-28 07:41:20.859505,2025-07-28 07:41:20.669814
+259,7,Supply Planning,Supply Management,False,False,False,True,2025-07-28 07:41:20.890223,2025-07-28 07:41:20.669814
+260,7,Supply Planning,Supply pipeline management,False,False,False,True,2025-07-28 07:41:20.920920,2025-07-28 07:41:20.669814
+261,7,Demand - Supply Mapping,Add New Mapping,False,False,False,True,2025-07-28 07:41:20.952501,2025-07-28 07:41:20.669814
+262,7,Demand - Supply Mapping,View Mappings,False,False,False,True,2025-07-28 07:41:20.983838,2025-07-28 07:41:20.669814
+263,7,Insights & Reporting,Analytics Dashboard,True,True,True,True,2025-07-28 07:41:21.014321,2025-07-28 07:41:20.669814
+264,7,Insights & Reporting,Export Functions,True,True,True,True,2025-07-28 07:41:21.044839,2025-07-28 07:41:20.669814
+265,7,Settings,User Management,True,True,True,True,2025-07-28 07:41:21.076513,2025-07-28 07:41:20.669814
+266,7,Settings,Roles & Role Groups,True,True,True,True,2025-07-28 07:41:21.107089,2025-07-28 07:41:20.669814
+267,7,Settings,Database Status,True,True,True,True,2025-07-28 07:41:21.137760,2025-07-28 07:41:20.669814
+268,7,Settings,Application Settings,True,True,True,True,2025-07-28 07:41:21.168944,2025-07-28 07:41:20.669814
+269,7,Settings,Export Settings,True,True,True,True,2025-07-28 07:41:21.200723,2025-07-28 07:41:20.669814
+270,7,Settings,Environment,True,True,True,True,2025-07-28 07:41:21.231683,2025-07-28 07:41:20.669814
+271,4,Demand Planning,Target Setting,False,False,False,False,2025-07-29 05:45:47.320571,2025-07-29 05:45:47.263146
+272,4,Demand Planning,Demand Tweaking,False,False,False,False,2025-07-29 05:45:47.366169,2025-07-29 05:45:47.263146
+273,4,Demand Planning,Editable Plan View,False,False,False,False,2025-07-29 05:45:47.396184,2025-07-29 05:45:47.263146
+274,4,Supply Planning,Talent Management,True,True,True,True,2025-07-29 05:45:47.432162,2025-07-29 05:45:47.263146
+275,4,Supply Planning,Pipeline Configuration,True,True,True,True,2025-07-29 05:45:47.462015,2025-07-29 05:45:47.263146
+276,4,Supply Planning,Supply Management,True,True,True,True,2025-07-29 05:45:47.491820,2025-07-29 05:45:47.263146
+277,4,Supply Planning,Supply pipeline management,True,True,True,True,2025-07-29 05:45:47.521577,2025-07-29 05:45:47.263146
+278,4,Demand - Supply Mapping,Add New Mapping,True,True,True,True,2025-07-29 05:45:47.551260,2025-07-29 05:45:47.263146
+279,4,Demand - Supply Mapping,View Mappings,True,True,True,True,2025-07-29 05:45:47.581090,2025-07-29 05:45:47.263146
+280,4,Insights & Reporting,Analytics Dashboard,False,False,False,True,2025-07-29 05:45:47.611004,2025-07-29 05:45:47.263146
+281,4,Insights & Reporting,Export Functions,False,False,False,True,2025-07-29 05:45:47.640533,2025-07-29 05:45:47.263146
+282,4,Settings,User Management,True,True,False,True,2025-07-29 05:45:47.670055,2025-07-29 05:45:47.263146
+283,4,Settings,Roles & Role Groups,False,True,False,True,2025-07-29 05:45:47.699510,2025-07-29 05:45:47.263146
+284,4,Settings,Database Status,False,False,False,False,2025-07-29 05:45:47.729133,2025-07-29 05:45:47.263146
+285,4,Settings,Application Settings,False,False,False,False,2025-07-29 05:45:47.760848,2025-07-29 05:45:47.263146
+286,4,Settings,Export Settings,False,False,False,False,2025-07-29 05:45:47.790546,2025-07-29 05:45:47.263146
+287,4,Settings,Environment,False,False,False,False,2025-07-29 05:45:47.819983,2025-07-29 05:45:47.263146
+140,3,Demand Planning,Target Setting,True,True,True,True,2025-07-21 04:04:52.485516,2025-07-21 04:04:52.459263
+141,3,Demand Planning,Demand Tweaking,True,True,True,True,2025-07-21 04:04:52.513522,2025-07-21 04:04:52.459263
+142,3,Demand Planning,Editable Plan View,False,False,False,False,2025-07-21 04:04:52.533128,2025-07-21 04:04:52.459263
+143,3,Supply Planning,Talent Management,False,False,False,False,2025-07-21 04:04:52.552707,2025-07-21 04:04:52.459263
+144,3,Supply Planning,Pipeline Configuration,False,False,False,False,2025-07-21 04:04:52.572275,2025-07-21 04:04:52.459263
+145,3,Supply Planning,Staffing Plans,False,False,False,False,2025-07-21 04:04:52.591759,2025-07-21 04:04:52.459263
+146,3,Demand - Supply Mapping,Add New Mapping,False,False,False,False,2025-07-21 04:04:52.611147,2025-07-21 04:04:52.459263
+147,3,Demand - Supply Mapping,View Mappings,False,False,False,True,2025-07-21 04:04:52.630937,2025-07-21 04:04:52.459263
+148,3,Insights & Reporting,Analytics Dashboard,False,False,False,True,2025-07-21 04:04:52.651564,2025-07-21 04:04:52.459263
+149,3,Insights & Reporting,Export Functions,False,False,False,True,2025-07-21 04:04:52.670980,2025-07-21 04:04:52.459263
+150,3,Settings,User Management,False,False,False,False,2025-07-21 04:04:52.690528,2025-07-21 04:04:52.459263
+151,3,Settings,Roles & Role Groups,False,False,False,False,2025-07-21 04:04:52.709801,2025-07-21 04:04:52.459263
+152,3,Settings,Database Status,False,False,False,False,2025-07-21 04:04:52.729147,2025-07-21 04:04:52.459263
+153,3,Settings,Application Settings,False,False,False,False,2025-07-21 04:04:52.748364,2025-07-21 04:04:52.459263
+154,3,Settings,Export Settings,False,False,False,False,2025-07-21 04:04:52.767748,2025-07-21 04:04:52.459263
+155,3,Settings,Environment,False,False,False,False,2025-07-21 04:04:52.787363,2025-07-21 04:04:52.459263

@@ -1,0 +1,18 @@
+assignment_id,client_name,account_track,client_region,lob,offering,talent_name,role,skills,talent_region,assignment_percentage,duration_months,start_date,end_date,status,notes,availability_percentage,total_assignment_percentage
+365,XL Axiata,,,,,Pratyaksh Mangal,TC,"Project management, Consulting,scrum, jira, Azure",India,50.0,4,2025-04-01,2025-07-30,Active,"Role: TC, Skills: ",50.0,0.0
+367,XL Axiata,,,,,Preethi Madhu,TC,,Indonesia,20.0,4,2025-04-01,2025-07-30,Active,"Role: TC, Skills: ",80.0,0.0
+366,XL Axiata,,,,,Ridwan Arifiandi,QA,,Indonesia,100.0,4,2025-04-01,2025-07-30,Active,"Role: QA, Skills: ",0.0,0.0
+388,Sprinto,,,,,Aayushi Gandhi,TC,,India,100.0,3,2025-07-30,2025-10-28,Active,,0.0,0.0
+362,XL Axiata,,,,,AP,Tech Lead,"Consulting, Infrastructure architecture, software delivery, DevOps",Australia,20.0,4,2025-07-09,2025-11-06,Active,"Role: Tech Lead, Skills: ",30.0,50.0
+368,KPC,,,,,AP,Tech Lead,"Consulting, Infrastructure architecture, software delivery, DevOps",Australia,50.0,4,2025-07-09,2025-11-06,Active,"Role: Tech Lead, Skills: ",30.0,50.0
+363,XL Axiata,,,,,Aaquib Khan,Tech Lead,"Java, JEE, Springboot, Hibernate, Javascript,MongoDB",Indonesia,100.0,4,2025-04-01,2025-07-30,Active,"Role: Tech Lead, Skills: ",0.0,0.0
+389,Piramal,,,,,Soumyadeep Keshri,Frontend,,,100.0,12,2025-08-11,2026-08-06,Active,,0.0,0.0
+369,KPC,,,,,Balakrishna R,Data & AI,,India,100.0,4,2025-07-01,2025-10-29,Active,"Role: Data & AI, Skills: ",0.0,0.0
+364,XL Axiata,,,,,Hendi Santika,Java Fullstack,"Springboot,Microservices,JEE,C,C++,Postgres,Linux",Indonesia,100.0,4,2025-04-01,2025-07-30,Active,"Role: Java Fullstack, Skills: ",0.0,0.0
+372,Piramal,,,,,Nidhi Mittal,Frontend,"core java, javascript, Node.js, MongoDB",India,100.0,12,2025-07-09,2026-07-04,Active,,0.0,0.0
+375,Piramal,,,,,Shrey Gupta,TC,,India,100.0,12,2025-01-01,2025-12-27,Active,"Role: TC, Skills: ",0.0,0.0
+373,Piramal,,,,,Aakanksha N,Frontend,,Bangalore,100.0,12,2025-01-01,2025-12-27,Active,,0.0,0.0
+386,Piramal,,,,,Shubham Tiwari,Java Backend,,Bangalore,100.0,12,2025-07-13,2026-07-08,Active,,0.0,0.0
+380,Piramal,,,,,Soumyajit Behera,Java Backend,,Bangalore,100.0,12,2025-07-13,2026-07-08,Active,,0.0,0.0
+387,Piramal,,,,,Krithika Tharani,Frontend,,Bangalore,100.0,12,2025-07-13,2026-07-08,Active,,0.0,0.0
+374,Piramal,,,,,Venkata Sridhar,Java Backend,,Bangalore,100.0,12,2025-01-01,2025-12-27,Active,,0.0,0.0

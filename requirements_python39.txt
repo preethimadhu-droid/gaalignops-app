@@ -1,0 +1,54 @@
+# GA AlignOps - Requirements (Python 3.9 Compatible)
+# Core Framework
+streamlit>=1.46.1
+streamlit-searchbox>=0.1.22
+
+# Data Processing & Analytics
+pandas>=1.5.0,<2.0.0
+numpy>=1.24.0,<2.0.0
+scikit-learn>=1.0.0,<1.4.0
+statsmodels>=0.13.0,<0.15.0
+
+# Visualization
+plotly>=5.0.0,<6.0.0
+
+# Database
+psycopg2-binary>=2.9.0,<3.0.0
+sqlalchemy>=1.4.0,<2.0.0
+
+# Google Services Integration
+google-api-python-client>=2.0.0,<3.0.0
+google-auth>=2.0.0,<3.0.0
+google-auth-httplib2>=0.1.0,<1.0.0
+google-auth-oauthlib>=0.4.0,<1.0.0
+gspread>=5.0.0,<6.0.0
+
+# Authentication & Security
+authlib>=0.15.0,<1.0.0
+python-jose>=3.3.0,<4.0.0
+
+# File Processing
+openpyxl>=3.0.0,<4.0.0
+
+# Utilities
+requests>=2.25.0,<3.0.0
+schedule>=1.1.0,<2.0.0
+pytz>=2021.0
+
+# Testing
+pytest>=6.0.0,<8.0.0
+
+# Environment Management
+python-dotenv>=0.19.0,<1.0.0
+
+# Performance & Caching
+redis>=4.0.0,<5.0.0
+
+# Logging & Monitoring
+structlog>=21.0.0,<23.0.0
+
+# Data Validation
+pydantic>=1.8.0,<2.0.0
+
+# Configuration Management
+pyyaml>=5.4.0,<7.0.0

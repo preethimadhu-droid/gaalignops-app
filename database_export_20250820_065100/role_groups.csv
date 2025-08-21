@@ -1,0 +1,11 @@
+id,group_name,description,status,created_date,updated_date,created_by
+1,Management,Leadership and management roles,Inactive,2025-07-10 04:52:39.371337,2025-07-10 09:44:42.577429,system
+4,Talent Leads,Talent Access,Active,2025-07-10 09:51:48.633784,2025-07-10 09:51:48.633784,admin
+2,Staff,Standard staff members,Inactive,2025-07-10 04:52:39.371337,2025-07-10 09:51:56.914630,system
+5,Sales Team,Sales Team Access,Active,2025-07-10 09:56:36.366114,2025-07-10 09:56:36.366114,admin
+8,Manager,Management level access with edit privileges,Inactive,2025-07-10 11:55:59.801561,2025-07-15 05:57:28.381949,admin
+10,Viewer,Read-only access for viewing data,Inactive,2025-07-10 11:56:00.705400,2025-07-15 05:57:38.184182,admin
+9,Team Member,Basic team member access with limited privileges,Inactive,2025-07-10 11:56:00.265915,2025-07-15 05:57:46.666257,admin
+3,Sales Leads,Sales Access,Active,2025-07-10 09:39:29.076687,2025-07-21 04:04:20.210953,admin
+7,Administrator,Full system access for administrators,Active,2025-07-10 11:55:59.324473,2025-07-21 04:06:39.776645,admin
+6,Super Admins,Full system access across all modules and functions with complete administrative privileges,Active,2025-07-10 10:21:56.460516,2025-07-10 10:21:56.460516,admin

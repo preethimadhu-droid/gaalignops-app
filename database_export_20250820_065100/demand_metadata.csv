@@ -1,0 +1,12 @@
+id,client_name,duration_months,start_date,end_date,people_expected,confidence_pct,region,track,created_at,updated_at,status,is_user_edited_date,is_auto_created,leads,pending
+32,Piramal,1,2025-08-10,2025-09-09,15.0,100.0,India,Digital Engineering,2025-07-09 15:13:35.486110,2025-08-14 05:01:19.991779,Active,False,False,0.0,8.0
+94,TEST_StatusClient,3,2025-08-15,,1.0,95.0,Auto-Generated,Auto-Generated,2025-08-15 08:33:20.105572,2025-08-15 08:33:20.105572,Ready for Staffing,False,True,0.0,0.0
+24,XL Axiata,4,2025-04-01,2025-07-30,6.5,100.0,Indonesia,XL Axiata-XL Axiata,2025-07-09 09:37:48.632435,2025-07-09 11:35:48.595764,Active,False,False,0.0,0.0
+5,KPC,4,2025-07-01,2025-10-29,4.0,80.0,,,2025-07-09 03:43:29.550493,2025-07-09 13:26:21.188502,Active,False,False,0.0,0.0
+36,Allianz,3,2025-07-10,,1.0,90.0,Auto-Generated,Auto-Generated,2025-07-10 12:35:21.126862,2025-07-10 12:35:21.126862,Ready for Staffing,False,True,0.0,0.0
+38,ThoughtWorks,3,,,1.0,70.0,Auto-Generated,Auto-Generated,2025-07-10 12:45:24.183837,2025-07-10 12:45:24.183837,Ready for Staffing,False,True,0.0,0.0
+40,Astra,3,2025-07-10,,1.0,81.0,Auto-Generated,Auto-Generated,2025-07-10 12:58:25.852502,2025-07-10 12:58:25.852502,Ready for Staffing,False,True,0.0,0.0
+46,TTEC,3,2025-07-11,,1.0,65.0,Auto-Generated,Auto-Generated,2025-07-11 15:48:38.619369,2025-07-11 15:48:38.619369,Ready for Staffing,False,True,0.0,0.0
+41,Sprinto,2,2025-07-30,2025-09-28,2.5,81.0,India,Sprinto-Sprinto,2025-07-10 12:58:25.852502,2025-07-29 06:18:42.843940,Active,False,True,0.0,0.0
+42,Amaan Minarals,3,2025-07-30,2025-10-28,5.0,81.0,Indonesia,Amaan Minarals-Mining,2025-07-10 12:58:25.852502,2025-07-29 06:35:08.529511,Active,False,True,0.0,0.0
+53,Tata Consumer,3,2025-08-07,,1.0,80.0,Auto-Generated,Auto-Generated,2025-08-07 10:36:28.066575,2025-08-07 10:36:28.066575,Ready for Staffing,False,True,0.0,0.0

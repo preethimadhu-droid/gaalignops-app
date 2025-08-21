@@ -1,0 +1,7 @@
+id,plan_id,role,skills,positions,onboard_by,pipeline_id,created_date,pipeline_owner
+116,29,FE Dev,Java,7,2025-08-13,39.0,2025-08-13 12:17:04.222428,Priyanka R
+117,29,BE Engineer,Java,5,2025-08-13,40.0,2025-08-13 12:25:00.000000,Anna Pauly
+412,53,TPM Role,Project Management,4,2025-09-30,188.0,2025-08-18 09:38:29.909072,Anna Pauly
+413,53,FE Dev,FE Dev,5,2025-09-19,,2025-08-18 09:38:29.909072,Priyanka R
+414,53,TPM Role,,1,2025-09-30,188.0,2025-08-18 11:03:39.322275,Anna Pauly
+415,53,Technical Program Manager,,1,2025-09-30,188.0,2025-08-18 11:03:39.322275,Anna Pauly

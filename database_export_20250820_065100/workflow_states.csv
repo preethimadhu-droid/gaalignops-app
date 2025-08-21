@@ -1,0 +1,14 @@
+id,state_name,state_color,state_order,is_initial_state,is_final_state,created_date,is_special
+1,Open,#6c757d,1.0,True,False,2025-07-13 06:42:14.244890,False
+2,In Progress,#ffc107,2.0,False,False,2025-07-13 06:42:14.244890,False
+3,Resolved,#28a745,3.0,False,False,2025-07-13 06:42:14.244890,False
+4,Closed,#28a745,4.0,False,True,2025-07-13 06:42:14.244890,False
+5,Reopened,#17a2b8,5.0,False,False,2025-07-13 06:42:14.244890,False
+6,Initiail Screening,#132ce8,6.0,True,False,2025-07-13 07:11:59.173870,False
+7,Code Test,#07335a,7.0,False,False,2025-07-13 07:11:59.393927,False
+8,Code Pairing,#365671,8.0,False,False,2025-07-13 07:11:59.611977,False
+9,Client Interview,#667e92,9.0,False,False,2025-07-13 07:11:59.832628,False
+10,Fitment,#37ce37,10.0,False,True,2025-07-13 07:12:00.046249,False
+11,Reject,#DC2626,999.0,False,True,2025-07-13 09:26:04.404302,True
+12,On Hold,#F59E0B,998.0,False,False,2025-07-13 09:26:04.404302,True
+14,On-Hold,#cc1700,,False,False,2025-07-16 00:05:33.711285,True

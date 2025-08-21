@@ -1,0 +1,12 @@
+id,demand_pipeline_id,stage_name,conversion_rate,tat_value,tat_unit,stage_order,stage_color,created_date,stage_description
+3,1,Outreach,50.0,5,Days,0,Blue,2025-07-21 12:55:57.739851,
+4,1,Connected,50.0,10,Days,1,Purple,2025-07-21 12:55:57.739851,
+5,1,Approach Notes,50.0,3,Weeks,2,Blue,2025-07-21 12:55:57.739851,
+6,1,Proposals,50.0,2,Months,3,Blue,2025-07-21 12:55:57.739851,
+7,1,Signed,50.0,2,Months,4,Green,2025-07-21 12:55:57.739851,
+10,2,Identify,30.0,4,days,1,Blue,2025-07-24 11:51:18.111546,
+11,2,Connect,50.0,4,days,2,Blue,2025-07-24 11:51:18.326778,
+12,2,Approach Note,40.0,10,days,3,Blue,2025-07-24 11:51:18.527303,
+13,2,Proposal,40.0,10,days,4,Blue,2025-07-24 11:51:18.732009,
+14,2,Commercial Nego,50.0,10,days,5,Blue,2025-07-24 11:51:18.938599,
+15,2,Closure,80.0,10,days,6,Blue,2025-07-24 11:51:19.142360,

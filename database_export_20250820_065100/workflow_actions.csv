@@ -1,0 +1,6 @@
+id,action_name,action_description,requires_comment,created_date
+1,Start Progress,Begin working on the candidate evaluation,False,2025-07-13 06:42:14.244890
+2,Resolve Issue,Mark candidate evaluation as resolved,True,2025-07-13 06:42:14.244890
+3,Close Issue,Complete and close the candidate process,False,2025-07-13 06:42:14.244890
+4,Reopen Issue,Reopen candidate for further evaluation,True,2025-07-13 06:42:14.244890
+5,Create Issue,Create new candidate entry,False,2025-07-13 06:42:14.244890

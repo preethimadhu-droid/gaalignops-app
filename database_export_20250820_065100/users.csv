@@ -1,0 +1,8 @@
+id,username,email,password_hash,profile,created_date,last_login,is_active,created_by,updated_date,status,team
+1,preethi.madhu,preethi.madhu@greyamp.com,240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9,admin,2025-07-07 01:12:45.765048,2025-08-20 04:02:30.627881,True,system,2025-07-10 02:39:35.519079,Active,
+4,Madhu L,madhu.lakshmanan@greyamp.com,142196c81d89e0b19a32666cc6e5a72f048243c389cf68e407e00d8672427d37,admin,2025-07-10 05:37:09.795901,,True,preethi.madhu@greyamp.com,2025-07-10 11:01:17.541072,Active,
+7,BalaR,balakrishna.r@greyamp.com,bfd9fa999eb270debff7d1b0f4beec45daac297778701c2de8878c9dbb35e677,admin,2025-07-28 07:26:05.720808,2025-08-10 14:21:39.284264,True,preethi.madhu@greyamp.com,2025-07-28 07:26:05.720808,Active,
+6,Amman,amaan.iqbal@greyamp.com,240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9,team_member,2025-07-18 08:37:00.803008,2025-08-07 20:09:06.297328,True,preethi.madhu@greyamp.com,2025-07-23 10:08:41.587013,Active,
+5,Priyanka R,priyanka.r@greyamp.com,142196c81d89e0b19a32666cc6e5a72f048243c389cf68e407e00d8672427d37,admin,2025-07-11 16:28:04.924315,2025-08-13 06:20:02.876276,True,preethi.madhu@greyamp.com,2025-07-11 16:28:04.924315,Active,Talent
+2,Anna Pauly,anna.pauly@greyamp.com,240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9,admin,2025-07-10 02:44:53.996518,2025-08-11 10:55:49.959230,True,preethi.madhu@greyamp.com,2025-07-23 10:02:42.768029,Active,Talent
+3,Likithashree N,likithashree.hm@greyamp.com,240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9,team_member,2025-07-10 03:33:10.423655,2025-08-12 08:20:23.984204,True,preethi.madhu@greyamp.com,2025-07-23 10:02:24.503601,Active,

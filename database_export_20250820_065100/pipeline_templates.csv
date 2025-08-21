@@ -1,0 +1,3 @@
+id,template_name,description,industry,role_category,is_default,created_date
+1,Standard Software Engineering Pipeline,Standard hiring pipeline for software engineering roles,Technology,Software Engineer,True,2025-07-11 03:56:44.575712
+2,Management Consulting Pipeline,Standard hiring pipeline for consulting roles,Consulting,Consultant,True,2025-07-11 03:56:44.575712

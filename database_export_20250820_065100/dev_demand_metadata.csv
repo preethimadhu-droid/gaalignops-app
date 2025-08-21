@@ -1,0 +1,11 @@
+id,client_name,duration_months,start_date,end_date,people_expected,confidence_pct,region,track,created_at,updated_at,status,is_user_edited_date,is_auto_created,leads,actual_start_date,actual_end_date,pending
+62,Allianz,9,2025-04-01,,1.0,100.0,Indonesia,Delivery,2025-08-10 03:41:26.801092,2025-08-10 03:41:26.801095,Ready for Staffing,False,True,0.0,,,0.0
+63,ThoughtWorks,5,2025-07-01,,1.0,100.0,Indonesia,Digital Delivery - Telkomcel,2025-08-10 03:41:27.359968,2025-08-10 03:41:27.359972,Ready for Staffing,False,True,0.0,,,0.0
+64,Amaan Minarals,1,2025-08-01,,1.0,80.0,Indonesia,Amaan Minarals-Mining,2025-08-10 03:41:28.420777,2025-08-10 03:41:28.420780,Ready for Staffing,False,True,0.0,,,0.0
+65,Astra,7,2025-07-01,,1.0,80.0,Indonesia,Astra- Conglomerate,2025-08-10 03:41:28.984033,2025-08-10 03:41:28.984036,Ready for Staffing,False,True,0.0,,,0.0
+66,Sprinto,9,2025-06-01,,1.0,80.0,India,Sprinto-Sprinto,2025-08-10 03:41:29.564297,2025-08-10 03:41:29.564299,Ready for Staffing,False,True,0.0,,,0.0
+61,XL Axiata,4,2025-04-01,,1.0,100.0,Indonesia,XL Axiata-XL Axiata,2025-08-10 03:41:26.218605,2025-08-10 08:16:57.320680,Active,False,True,0.0,,,0.0
+67,KPC,4,2025-07-01,,1.0,80.0,Indonesia,KPC-Mining,2025-08-10 03:41:30.126972,2025-08-10 08:16:57.320680,Active,False,True,0.0,,,0.0
+69,Piramal,9,2025-04-01,2025-12-27,20.0,100.0,India,Digital Engineering,2025-08-10 03:54:16.088436,2025-08-12 07:54:38.165067,Active,False,True,25.0,2025-04-01,2025-12-27,5.0
+87,TTEC,3,2025-07-11,,1.0,65.0,Auto-Generated,Auto-Generated,2025-07-11 15:48:38.619369,2025-07-11 15:48:38.619369,Ready for Staffing,False,True,0.0,,,0.0
+88,Tata Consumer,3,2025-08-07,,1.0,80.0,Auto-Generated,Auto-Generated,2025-08-07 10:36:28.066575,2025-08-07 10:36:28.066575,Ready for Staffing,False,True,0.0,,,0.0

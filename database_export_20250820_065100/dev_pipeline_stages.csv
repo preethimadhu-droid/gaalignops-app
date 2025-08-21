@@ -1,0 +1,29 @@
+id,pipeline_id,stage_name,stage_order,conversion_rate,tat_days,stage_description,is_active,created_date,stage_type,maps_to_status,status_flag,is_special,name,is_special_stage,is_terminal_stage,is_success_stage
+237,46,Initial Screening,1,50.0,2,,True,2025-08-14 06:03:47.248662,normal,Screening,Greyamp,False,,False,False,False
+238,46,Code Pairing,2,50.0,5,,True,2025-08-14 06:03:47.248662,normal,Tech Round,Greyamp,False,,False,False,False
+239,46,Client Screening,3,60.0,4,,True,2025-08-14 06:04:37.885239,normal,Screening,Client,False,,False,False,False
+240,46,Technical Round,4,50.0,5,,True,2025-08-14 06:05:02.460354,normal,Tech Round,Client,False,,False,False,False
+241,46,Shortlisted,5,60.0,3,,True,2025-08-14 06:05:35.997895,normal,Selected,Client,False,,False,False,False
+242,46,Offer Made,6,50.0,3,,True,2025-08-14 06:17:46.791469,normal,Selected,Client,False,,False,False,False
+243,46,Staffed,7,50.0,3,,True,2025-08-14 06:18:45.313983,normal,On Boarded,Client,False,,False,False,False
+244,46,Rejected,-1,0.0,0,,True,2025-08-14 06:24:35.322922,normal,Rejected,Both,True,,False,False,False
+245,46,On Hold,-1,0.0,0,,True,2025-08-14 06:25:04.749276,normal,On Hold,Both,True,,False,False,False
+246,46,Dropped,-1,0.0,0,,True,2025-08-14 06:25:26.769815,normal,Dropped,Both,True,,False,False,False
+417,188,Initial Assessment,1,40.0,2,,True,2025-08-15 08:39:01.221385,normal,Screening,Greyamp,False,,False,False,False
+418,188,Client Assessment,2,50.0,5,,True,2025-08-15 08:39:01.221385,normal,Screening,Client,False,,False,False,False
+419,188,Short Listed,3,70.0,4,,True,2025-08-15 08:39:01.221385,normal,Selected,Client,False,,False,False,False
+420,188,Offer Made,4,70.0,3,,True,2025-08-15 08:39:01.221385,normal,Selected,Greyamp,False,,False,False,False
+421,188,Staffed,5,80.0,10,,True,2025-08-15 08:39:01.221385,normal,On Boarded,Client,False,,False,False,False
+429,188,Dropped,-1,0.0,0,,True,2025-08-15 08:50:39.464887,normal,Dropped,Both,True,,False,False,False
+337,122,Initial Round,1,50.0,2,,True,2025-08-14 08:15:02.348343,normal,Screening,Greyamp,False,,False,False,False
+338,122,Core Pair,2,50.0,5,,True,2025-08-14 08:16:02.333866,normal,Tech Round,Greyamp,False,,False,False,False
+339,122,Client Screening,3,50.0,3,,True,2025-08-14 08:16:34.691098,normal,Screening,Client,False,,False,False,False
+340,122,Tech Assessment,4,50.0,3,,True,2025-08-14 08:16:57.715111,normal,Tech Round,Client,False,,False,False,False
+341,122,Selected,5,60.0,5,,True,2025-08-14 08:17:25.013051,normal,Selected,Client,False,,False,False,False
+342,122,Offer Made,6,50.0,6,,True,2025-08-14 08:17:52.754395,normal,Selected,Greyamp,False,,False,False,False
+343,122,Staffed,7,50.0,8,,True,2025-08-14 08:19:26.132882,normal,On Boarded,Client,False,,False,False,False
+344,122,Rejected,-1,0.0,0,,True,2025-08-14 08:19:58.057251,normal,Rejected,Both,True,,False,False,False
+345,122,Dropped,-1,0.0,0,,True,2025-08-14 08:20:19.281103,normal,Dropped,Both,True,,False,False,False
+346,122,On Hold,-1,0.0,0,,True,2025-08-14 08:20:48.249224,normal,On Hold,Both,True,,False,False,False
+447,188,On Hold,-1,0.0,0,,True,2025-08-16 06:34:47.721774,normal,On Hold,Both,True,,False,False,False
+428,188,Rejected,7,0.0,0,,True,2025-08-15 08:50:03.563173,normal,Rejected,Both,True,,False,False,False
